@@ -9,3 +9,5 @@ inventory*
 
 sample_files/tarball_install/*
 !sample_files/tarball_install/README.md
+
+.DS_Store
